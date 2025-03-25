@@ -9,5 +9,6 @@ public class MetierImpl implements IMetier {
     @Override
     public double calcul() {
         double t = dao.getData();
-        return t * 43 / 3;    }
+        return t * 23;
+    }
 }
