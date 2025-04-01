@@ -13,3 +13,7 @@
 <img src="captures/img5.png">
 <h4>voici l'injection des dépendances :Par instanciation dynamique </h4>
 <img src="captures/img6.png">
+<h4>Sortie version web service </h4>
+<img src="captures/img7.png">
+<h4>Sortie version base de donnees </h4>
+<img src="captures/img8.png">
