@@ -3,12 +3,15 @@ import dao.DaoImpl;
 import dao.IDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
-@Component("metier")
+@Service("metier")
 public class MetierImpl implements IMetier {
-    @Autowired
+   // @Autowired
+    // @Autowired
+
     private IDao dao;
-    public MetierImpl() {}
+
     public MetierImpl(IDao dao) {
         this.dao = dao;
     }
