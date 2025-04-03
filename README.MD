@@ -1,6 +1,6 @@
 <h3>Compte rendu  de l'Activité Pratique N°1- Injection des dépendances </h3>
 <h4>Voici l'architecture de mon projet</h4>
-<img src="captures/img.png">
+<img src="captures/img17.png">
 <h4>Voici le diagramme de classe de mon projet</h4>
 <img src="captures/img9.png">
 <h4>Voici l'interface IDao avec une méthode getData</h4>
